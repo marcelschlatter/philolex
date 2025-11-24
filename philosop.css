@@ -1,0 +1,44 @@
+<!-- CREATED AND (c) COPYRIGHT BY PETER MOELLER.
+FIRST VERSION: 2000.
+LAST UPDATED: MAY 17, 2011.
+LAST TECHNICAL UPDATE: DECEMBER 22, 2003. -->
+
+h1 { font-family:Arial Bounded MT Bold, Arial; font-size:20pt; }
+h2 { font-family:Arial Bounded MT Bold, Arial; font-size:14pt; }
+h3 { font-family:Arial Bounded MT Bold, Arial; font-size:12pt; }
+h4 { font-family:Arial Bounded MT Bold, Arial; font-size:11pt; }
+h5 { font-family:Arial Bounded MT Bold, Arial; font-size:10pt; }
+h6 { Arial; font-size:9pt; }
+h7 { Arial; font-size:8pt; align:center; }
+p { font-family:Arial; font-size:10pt; }
+div { font-family:Arial; font-size:10pt; }
+.gt { font-family:Arial; font-size:12pt; }
+.gr { font-family:Arial; font-size:12pt; }
+.bi { font-family:Arial; font-size:16pt; background-color:#ffffff; }
+.lc { font-family:Arial; font-size:8pt; text-align:center; }
+.lcuf { font-family:Arial; font-size:8pt; text-align:center; background-color:#e6ffe6; }
+.lcu { font-family:Arial; font-size:8pt; text-align:center; background-color:#ffe6e6; }
+.lck { font-family:Arial; font-size:8pt; text-align:center; background-color:#ffffc8; }
+.lt { font-family:Arial; font-size:8pt; }
+.ltk { font-family:Arial; font-size:8pt; background-color:#ffffff; }
+.sm { font-family:Arial; font-size:1pt; }
+.zi { font-family:Arial; color:#0000FF; background-color:#FFFFFF; font-style:oblique; font-weight:bold; text-align:right; }
+.an { background-color:#EEECEC; }
+.ls { letter-spacing:4pt; }
+.ju { text-align:justify; }
+.fa { background-color:#700000; color:#dddddd; }
+.fr { background-color:#ffe7e7; }
+.ni { color:#700000; }
+li { font-family:Arial; font-size:10pt; }
+ol { font-family:Arial; font-size:10pt; margin-right:1cm; }
+ul { font-family:Arial; font-size:10pt; margin-right:1cm; }
+td { font-family:Arial; font-size:10pt; align:center; }
+td.gs { background-color:#ffffff; }
+td.ka { font-family:Arial; font-size:10pt; align:center; background-color:#eeeeee; text-align:center; font-weight:bold; }
+td.kal { font-family:Arial; font-size:10pt; align:left; background-color:#eeeeee; text-align:left; font-weight:bold; }
+td.gr { font-family:Arial Bounded MT Bold, Arial; font-size:24pt; align:center; background-color:#eeeeee; }
+span { background-color:#ddddff; }
+a:link { color:blue; }
+a:visited { color:blue; }
+a:active { color:blue; }
+
